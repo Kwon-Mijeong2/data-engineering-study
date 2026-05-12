@@ -1,5 +1,3 @@
-# data-engineering-study
-
 # Data Engineering Study Repository
 
 데이터 엔지니어 취업을 목표로 진행한 학습/실습/프로젝트 저장소입니다.
