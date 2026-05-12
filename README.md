@@ -54,15 +54,3 @@
 | Realtime Streaming | Kafka + Spark Streaming 실시간 ETL |
 
 ---
-
-# Blog & CS Study
-
-- CS 기초 정리
-- 데이터 엔지니어링 학습 기록
-- Tistory 업로드용 기술 문서 정리
-
----
-
-# Architecture
-
-(여기에 추후 아키텍처 이미지)
